@@ -20,4 +20,4 @@ export default function App({ Component, pageProps }: AppProps) {
   );
 }
 
-export const url = "https://oleo-abba.vercel.app";
+export const url = "https://oleo.uz";
